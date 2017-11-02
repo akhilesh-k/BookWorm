@@ -17,4 +17,5 @@ BookWorm is a python tool to convert Ebooks to simple audiobook in mp3 format.<b
 ### How to Use BookWorm<br>
 <br>
 run `python3 check.py`<br>
-Save .pdf files in same directory and use the GUI.
+Save .pdf files in same directory and use the GUI.<br>
+Feel free to fork and contribute.
